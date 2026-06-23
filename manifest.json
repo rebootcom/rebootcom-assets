@@ -1,15 +1,8 @@
 {
-  "version": "2026-06-01",
-  "files": [
-    {
-      "name": "eresa.mp4",
-      "url": "https://raw.githubusercontent.com/rebootcom/rebootcom-assets/main/eresa.mp4",
-      "md5": ""
-    },
-    {
-      "name": "eresa.id.jpeg",
-      "url": "https://raw.githubusercontent.com/rebootcom/rebootcom-assets/main/eresa.id.jpeg",
-      "md5": ""
-    }
-  ]
+  "eresa.mp4": "2026-06-23-v1",
+  "eresa.id.jpg": "2026-06-23-v1",
+  "Banner_1.png": "2026-06-23-v1",
+  "Banner_2.png": "2026-06-23-v1",
+  "Cta_1.png": "2026-06-23-v1",
+  "Cta_2.png": "2026-06-23-v1"
 }
